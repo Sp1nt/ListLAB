@@ -66,6 +66,7 @@ int List::GetCount()
 	return Count;
 }
 
+//*****HW*****
 void List::Input(char el, int ind)
 {
 
@@ -111,6 +112,7 @@ int List::Find(char ind)
 
 	return NULL;
 }
+//************
 
 void List::Add(char data)
 {
